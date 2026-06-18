@@ -1,0 +1,84 @@
+{
+  "baseline": {
+    "key": "baseline",
+    "runs": [
+      {
+        "tbt": 0,
+        "tti": 1509.2002,
+        "fcp": 617.6001,
+        "speedIndex": 617.6001,
+        "perfScore": 100,
+        "jsBytes": 89115,
+        "totalBytes": 90926
+      },
+      {
+        "tbt": 0,
+        "tti": 1507.5803,
+        "fcp": 614.79015,
+        "speedIndex": 614.79015,
+        "perfScore": 100,
+        "jsBytes": 89115,
+        "totalBytes": 90926
+      },
+      {
+        "tbt": 0,
+        "tti": 1506.7440000000001,
+        "fcp": 613.372,
+        "speedIndex": 613.372,
+        "perfScore": 100,
+        "jsBytes": 89115,
+        "totalBytes": 90926
+      }
+    ],
+    "avg": {
+      "tbt": 0,
+      "tti": 1507.8414999999998,
+      "fcp": 615.2540833333333,
+      "speedIndex": 615.2540833333333,
+      "perfScore": 100,
+      "jsBytes": 89115,
+      "totalBytes": 90926
+    }
+  },
+  "sentry": {
+    "key": "with-sentry",
+    "runs": [
+      {
+        "tbt": 33,
+        "tti": 2042.9138000000003,
+        "fcp": 614.9569,
+        "speedIndex": 614.9569,
+        "perfScore": 100,
+        "jsBytes": 162233,
+        "totalBytes": 164045
+      },
+      {
+        "tbt": 31,
+        "tti": 2039.0045,
+        "fcp": 615.00225,
+        "speedIndex": 615.00225,
+        "perfScore": 100,
+        "jsBytes": 162233,
+        "totalBytes": 164045
+      },
+      {
+        "tbt": 32,
+        "tti": 2036.9667,
+        "fcp": 613.48335,
+        "speedIndex": 613.48335,
+        "perfScore": 100,
+        "jsBytes": 162233,
+        "totalBytes": 164045
+      }
+    ],
+    "avg": {
+      "tbt": 32,
+      "tti": 2039.6283333333333,
+      "fcp": 614.4808333333334,
+      "speedIndex": 614.4808333333334,
+      "perfScore": 100,
+      "jsBytes": 162233,
+      "totalBytes": 164045
+    }
+  }
+}
